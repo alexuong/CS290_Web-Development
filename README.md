@@ -1,2 +1,2 @@
-# CS261
-Oregon State 261 assignments
+# CS290
+Oregon State CS290 Web Development Projects
