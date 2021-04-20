@@ -1,0 +1,159 @@
+body{
+    font-family: Roboto;
+
+	
+}
+.site-title{
+	font-size: 35px;
+	height: 30px;
+	padding: 20px;
+	background-color: #1E90FF;
+ 	color: white;
+	font-weight: 400;
+
+
+}
+	
+
+.navlink{
+    color: white; 
+	
+}
+
+.navlist{
+    height: 10px;
+    margin: -15px 0px 0px 0px
+
+
+}
+
+.active{
+    margin-left: -20px;
+
+
+}
+.navitem{
+    display: inLine;
+    margin-right:10px;
+
+    color: black;
+
+
+}
+
+.navbar-search{
+    margin-left:1440px
+}
+
+
+.twit{
+    background-color: white;
+    width: 400px;
+    height: 120px;
+    display:inline-block;
+    margin: 5px;
+    border: 1px solid #cec4c4;
+    padding: 10; 
+	
+}
+
+
+.twit-container{
+	background-color: whitesmoke;
+	height: 1000px;
+	margin-top: 30px;
+	padding: 50px 300px 0px 300px;
+ 
+
+
+
+
+}
+
+#navbar-search-button{
+    padding: 0px;
+    border: none;
+    background:none;
+
+
+}
+
+#navbar-search-button:hover{
+    color: #1E90FF;
+    cursor: pointer;
+
+}
+
+#navbar-search-input{
+    background-color: whitesmoke;
+    width: 180px;
+    height: 25px;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 100px;
+
+}
+
+#navbar-search-input:focus{
+	background-color: white;
+}
+
+
+.twit-icon{
+    font-size: 25px;
+    display:block;
+    margin-top: px;
+
+
+}
+
+.twit-text {
+    margin-left: 30px;
+    font-weight: 1000;
+    
+	
+}
+
+a{
+    color:black;	
+
+}
+
+.twit-author a{
+    font-weight: bold;
+     margin-left: 280px;
+
+}
+
+a:hover{
+	color: #1E90FF;
+}
+
+
+
+
+.twit-text{
+    width: 400px;
+    height:40px;
+    font-weight: 500; 
+}
+
+#create-twit-button{
+    background-color: red;
+    font-size: 40px;
+    border-radius:50px; 
+    margin-left: 1800px;
+    bottom: 20px;
+    position:fixed;
+   
+    
+  
+
+}
+
+#create-twit-button:hover{
+	background-color: #1E90FF;
+	cursor: pointer;
+	font-size: 45px;
+}
+

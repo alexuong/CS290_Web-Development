@@ -1,0 +1,75 @@
+body{
+        font-family: Roboto;
+
+}
+
+
+
+.site-title{
+        font-size: 35px;
+        height: 30px;
+        padding: 20px;
+
+        color: white
+        background-color:#1E90FF;
+
+        font-weight: 400;
+
+}
+
+
+
+
+.navlist{
+        height: 10px;
+        margin: -15px;
+
+
+}
+
+.active{
+        margin-left: -20px;
+
+}
+
+.navitem{
+        display: inLine;
+        margin-right:10px;
+
+        color: black;
+
+}
+
+.navbar-search{
+        margin-left: 1440px;
+
+
+}
+
+.twit-container{
+        background-color: whitesmoke;
+        margin-top: 30px;
+
+}
+
+
+#navbar-search-button{
+        padding: 0;
+        border: none;
+        background: none;
+
+
+}
+
+
+#navbar-search-input{
+    background-color: whitesmoke;
+    width: 180px;
+    height: 25px;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 100px;
+
+
+}
+
